@@ -1,0 +1,22 @@
+{
+  "name": "generic-avatar",
+  "version": "1.0.0",
+  "description": "Generic Avatar (Single or Multiple) : component accept initials/ images, provides random color. ",
+  "main": "MultipleAvatar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signaturehd/GenericAvatar.git"
+  },
+  "keywords": [
+    "react-generic-avatar"
+  ],
+  "author": "Mark Anthony Sevilla Parcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signaturehd/GenericAvatar/issues"
+  },
+  "homepage": "https://github.com/signaturehd/GenericAvatar#readme"
+}
