@@ -1,1 +1,1 @@
-# GenericAvatar
+# ReactGenericAvatar
